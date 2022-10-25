@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01",
+    "name": "Python Programming",
+    "title":"General-purpose programming language",
+    "image_url": "https://th.bing.com/th/id/R.a81ec894994b107448ec84f07feb0b6f?rik=AGEVK6UyAjUuPQ&riu=http%3a%2f%2fclipart-library.com%2fimages_k%2fpython-logo-transparent%2fpython-logo-transparent-9.png&ehk=CDexlAZjyQXRqtsTUdrBS2HDF%2fTK%2fcsRifoPtWrK2Es%3d&risl=&pid=ImgRaw&r=0https://th.bing.com/th/id/R.a81ec894994b107448ec84f07feb0b6f?rik=AGEVK6UyAjUuPQ&riu=http%3a%2f%2fclipart-library.com%2fimages_k%2fpython-logo-transparent%2fpython-logo-transparent-9.png&ehk=CDexlAZjyQXRqtsTUdrBS2HDF%2fTK%2fcsRifoPtWrK2Es%3d&risl=&pid=ImgRaw&r=0",
+    "details": "The Python Software Foundation (PSF) is a 501(c)(3) non-profit corporation that holds the intellectual property rights behind the Python programming language. We manage the open source licensing for Python version 2.1 and later and own and protect the trademarks associated with Python. We also run the North American PyCon conference annually, support other Python conferences around the world, and fund Python related development with our grants program and by funding special projects."
+  },
+  {
+    "id": "02",
+    "name": "Java",
+    "title": "Object-oriented with Java",
+    "image_url": "https://th.bing.com/th/id/OIP.tKRpLElMmGvi8z7DKJnBpwHaF1?pid=ImgDet&rs=1",
+    "details": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA),[17] meaning that compiled Java code can run on all platforms that support Java without the need to recompile.[18] Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. The syntax of Java is similar to C and C++, but has fewer low-level facilities than either of them. The Java runtime provides dynamic capabilities (such as reflection and runtime code modification) that are typically not available in traditional compiled languages. As of 2019, Java was one of the most popular programming languages in use according to GitHub,[19][20] particularly for client–server web applications, with a reported 9 million developers.[21]Java was originally developed by James Gosling at Sun Microsystems. It was released in May 1995 as a core component of Sun Microsystems' Java platform. The original and reference implementation Java compilers, virtual machines, and class libraries were originally released by Sun under proprietary licenses. As of May 2007, in compliance with the specifications of the Java Community Process, Sun had relicensed most of its Java technologies under the GPL-2.0-only license. Oracle offers its own HotSpot Java Virtual Machine, however the official reference implementation is the OpenJDK JVM which is free open-source software and used by most developers and is the default JVM for almost all Linux distributions."
+  },
+  {
+    "id": "03",
+    "name": "Learn R",
+    "title": "statistical programming languag",
+    "image_url": "https://www.i2tutorials.com/wp-content/media/2020/05/R-PROGRAMMING-LANGUAGE-i2tutorials.jpg",
+    "details": "Why Learn R? R is a widely used statistical programming language that’s beloved by users in academia and industry. R works well with data, making it a great language for anyone interested in data analysis, data visualization, and data science. In this course, you’ll be exposed to fundamental programming concepts in R."
+  },
+  {
+    "id": "04",
+    "name": "JavaScript",
+    "title": "Javascript for web-development",
+    "image_url": "https://i0.wp.com/www.techomoro.com/wp-content/uploads/2019/11/javascript-736400-1.png?fit=1854%2C941&ssl=1",
+    "details": "There are two reasons why it’s sometimes hard to make a choice; either there are too few options to choose from, or there are too many. When it comes to programming languages, there is an embarrassment of riches, which in turn can cause mental gridlock. There’s Python, Java, JavaScript, C/CPP, PHP, Swift, C#, Ruby, Objective-C, and SQL, and that’s not even the full list! How do you choose?Now, bear in mind that as far as programmers go, there’s no such thing as knowing too many languages. A programmer with a grasp of many languages is a programmer who is highly marketable and very much in demand. Upskilling is always a smart way to go.Still, you have to start somewhere; and that should be with one of the more popular languages, one that’s experiencing unprecedented growth in demand.We present to you, JavaScript!"
+  },
+  {
+    "id": "05",
+    "name": "Learn C++",
+    "title": "Functions in C++",
+    "image_url": "https://th.bing.com/th/id/R.5f7468aac716e12307cb532552f25a61?rik=KE75V4%2biWgOWgg&pid=ImgRaw&r=0",
+    "details": "A function is a set of statements that take inputs, do some specific computation, and produce output. The idea is to put some commonly or repeatedly done tasks together and make a function so that instead of writing the same code again and again for different inputs, we can call the function.In simple terms, a function is a block of code that only runs when it is called."
+  },
+  {
+    "id": "06",
+    "name": "Learn Lua",
+    "title": "Lua for game development",
+    "image_url": "https://th.bing.com/th/id/OIP.Elefqs4wFnwhaXS97Q6_DgHaHQ?pid=ImgDet&w=200&h=196&rs=1",
+    "details": "the main reason resides in the flexibility of Lua and its integration with well known game engine (Cryengine, Corona, Luxinia and many other…) Moreover using in general a scripting language in your game has several advantages."
+  }
+]
