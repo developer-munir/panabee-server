@@ -47,4 +47,52 @@
     "image_url": "https://th.bing.com/th/id/OIP.KRqspdVvBMLZzf6mUT9IKQHaDn?pid=ImgDet&rs=1",
     "details": "Free open source full-stack framework for rapid development of fast, scalable, secure and portable database-driven web-based applications. Written and programmable in Python (version 3 and 2.7).The best way to understand web2py is to try it. You can try it online here (this online version is identical to the actual web2py although some functions are disabled for security reasons).web2py was inspired by Ruby on Rails and, as Rails, it focuses on rapid development and follows a Model View Controller design. web2py differs from Rails because it is based on Python (thus it is faster and more scalable), because it provides a comprehensive web-based administrative interface (thus there is no need to ever type shell commands unless you wish), includes libraries to handle more protocols (for example XML-RPC and RSS feeds), and can run on the Google App Engine.web2py was also inspired by Django and, as Django, it has the ability to generate forms from database tables and it includes an extensive set of validators. web2py differs from Django because it is more compact, easier to learn and does not have any project-level configuration files.web2py is less verbose than Java-based frameworks and its syntax is much cleaner than PHP-based frameworks. This makes applications simpler to develop, and easier to read and maintain."
   },
+  {
+    "_id": "0282e0e58a5c404fbd15261f14c2ab6b",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 12488,
+    "title": "Spring Tutorial",
+    "language": "English",
+    "framework":"Spring",
+    "tag": "Java",
+    "image_url": "https://sharryhong.github.io/image/spring.png",
+    "details": "This spring tutorial provides in-depth concepts of Spring Framework with simplified examples. It was developed by Rod Johnson in 2003. Spring framework makes the easy development of JavaEE application.Spring is a lightweight framework. It can be thought of as a framework of frameworks because it provides support to various frameworks such as Struts, Hibernate, Tapestry, EJB, JSF, etc. The framework, in broader sense, can be defined as a structure where we find solution of the various technical problems.The Spring framework comprises several modules such as IOC, AOP, DAO, Context, ORM, WEB MVC etc. We will learn these modules in next page. Let's understand the IOC and Dependency Injection first."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f15c2ab6b",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 12488,
+    "title": "Hibernate Tutorial",
+    "language": "English",
+    "framework":"Hibernate",
+    "tag": "Java",
+    "image_url": "https://3.bp.blogspot.com/-nAzos7rPamc/W9mPuMQBdSI/AAAAAAAAOCw/wewdun03hyIwQd0MFWcFDPHm4wh8ROmtQCLcBGAs/s1600/hibernate.png",
+    "details": "This hibernate tutorial provides in-depth concepts of Hibernate Framework with simplified examples. It was started in 2001 by Gavin King as an alternative to EJB2 style entity bean.Hibernate is a Java framework that simplifies the development of Java application to interact with the database. It is an open source, lightweight, ORM (Object Relational Mapping) tool. Hibernate implements the specifications of JPA (Java Persistence API) for data persistence."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f16c2ab6b",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 12488,
+    "title": "GWT(Google Web Toolkit) Framework",
+    "language": "English",
+    "framework":"GWT",
+    "tag": "Java",
+    "image_url": "https://th.bing.com/th/id/R.d13082c571dad5522ca1322b43d4a5b1?rik=HUYUxDoDooFXQg&pid=ImgRaw&r=0",
+    "details": "GWT Tutorial provides basic and advanced concepts of GWT. Our GWT Tutorial is designed for beginners and professionals both.GWT is a development toolkit which enables developers to develop internet application. GWT emphasise on reusable approaches to common web-app tasks such as bookmarking, UI abstraction, cross-browser portability etc.Our GWT Tutorial includes all topics of GWT Tutorial such as GWT Tutorial with introduction, installation, first gwt application, create application, point class, deployment descriptor, rpc, rpc mechanism, panels, layout panels, ui blinder, stock exchange app example, testing, running unit, writing unit etc."
+  },
 ]
