@@ -95,4 +95,68 @@
     "image_url": "https://th.bing.com/th/id/R.d13082c571dad5522ca1322b43d4a5b1?rik=HUYUxDoDooFXQg&pid=ImgRaw&r=0",
     "details": "GWT Tutorial provides basic and advanced concepts of GWT. Our GWT Tutorial is designed for beginners and professionals both.GWT is a development toolkit which enables developers to develop internet application. GWT emphasise on reusable approaches to common web-app tasks such as bookmarking, UI abstraction, cross-browser portability etc.Our GWT Tutorial includes all topics of GWT Tutorial such as GWT Tutorial with introduction, installation, first gwt application, create application, point class, deployment descriptor, rpc, rpc mechanism, panels, layout panels, ui blinder, stock exchange app example, testing, running unit, writing unit etc."
   },
+  {
+    "_id": "0282e0e58a5c404fbd15261f17c2ab6b",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 12488,
+    "title": "Beakr Tutorial",
+    "language": "English",
+    "framework":"Beakr",
+    "tag": "R",
+    "image_url": "https://th.bing.com/th/id/R.67721677de1d6a4f891339a767d3f20b?rik=phrpNjBJbkYSkA&riu=http%3a%2f%2fasia.iza-structure.org%2fIZA-SC%2fFWmain_images%2fBEC_001.jpg&ehk=QoPFekmf6FQbWgKBZJcu4MCmPRiOvqfPk%2byJl7di%2fwY%3d&risl=&pid=ImgRaw&r=0",
+    "details": "Having recently announced the beakr web framework for R, we have received several questions about context and why we choose beakr over other options for some of our web services. This post will attempt to answer some of those questions by providing a few opinions on beakr and other web frameworks for R.The comparison will by no means be exhaustive but will attempt to briefly summarize some of the key distinctions each web framework has to offer. While there are some differences in the approach each package takes to developing web services, they all share similar basic functionality. In the end, the choice of a particular framework will come down largely to personal preference."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f18c2ab6b",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 12488,
+    "title": "React Tutorial",
+    "language": "English",
+    "framework":"React",
+    "tag": "Javascript",
+    "image_url": "https://th.bing.com/th/id/R.f81a6f373c244b1f70f4b7402b5ab372?rik=rbXh4ieLuKt%2bmA&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fReact_logo_logotype_emblem.png&ehk=QhGOkKcUKCU7FBQgHOajOiJqJBACUTD2Ni6LsfqzCEA%3d&risl=&pid=ImgRaw&r=0",
+    "details": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.Declarative views make your code more predictable and easier to debug."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f19c2ab6b",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 12488,
+    "title": "Kigs Tutorial",
+    "language": "English",
+    "framework":"Kigs",
+    "tag": "C++",
+    "image_url": "https://kigs.hypotheses.org/files/2020/03/Bild1.png",
+    "details": " A free and open source C++ modular multi-purpose cross platform RAD framework. [MIT] website libPhenom - libPhenom is an eventing framework for building high performance and high scalability systems in C. [Apache2] LibSourcey - C++11 evented IO for real-time video streaming and high performance networking applications. [LGPL]."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f20c2ab6b",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 12488,
+    "title": "Godot Engine",
+    "language": "English",
+    "framework":"Godot",
+    "tag": "Lua",
+    "image_url": "https://library.kissclipart.com/20181219/xgw/kissclipart-godot-clipart-godot-game-engine-blender-36ee1a69d592d485.png",
+    "details": "Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. It provides a comprehensive set of common tools, so that users can focus on making games without having to reinvent the wheel. Games can be exported with one click to a number of platforms, including the major desktop platforms (Linux, macOS, Windows), mobile platforms (Android, iOS), as well as Web-based platforms (HTML5) and consoles."
+  }
 ]
